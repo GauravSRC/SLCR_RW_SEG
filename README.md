@@ -18,10 +18,10 @@ The model was trained on the River Water Segmentation Dataset (RiWa v2), which c
 - RGB aerial/satellite images of rivers
 - Binary segmentation masks
 - Training and validation splits
-## Training Results
-**The model was trained for 10 epochs(executed it roughly (will improve the code and upload version 2 later)).
+## Results
+**The model was trained for 120 epochs.
 **
-The model achieved the lowest validation loss of 0.1921 at epoch 4.
+The model achieved the lowest validation loss of 0.1678(approx). And the output videos are in https://drive.google.com/drive/folders/1bl6UV00YMWiAVAgcmQUHw0rVCMkcTMYF?usp=sharing
 ## Features
 - **Image Segmentation**: Process individual images to detect river water
 - **Video Processing**: Segment rivers in video footage with post-processing techniques
